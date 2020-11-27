@@ -1,2 +1,1 @@
-# hw_python_oop
-Sprint 3. Итоговый проект.
+ Calories_Calculator and Cash_Calculator
